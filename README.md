@@ -1,4 +1,4 @@
 xiahualin
 =========
 
-[personal website](swn73.github.io/xiahualin/ "hualin.xhl")
+[personal website](http://swn73.github.io/xiahualin/ "hualin.xhl")
